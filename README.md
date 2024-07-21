@@ -1,7 +1,7 @@
 # Porto as a Software Quality Assurance
 A Story of my journey as a Software Quality Assurance
 # About Me
-Hi, folks! i am Naza, a graduated from Information System major in one of public uni in Jakarta, Indonesia. From educational background in a tech area i hardly find a path for my carrer because i had to explore and study programming on my own way. In class, my lecture are teach us in majority about business flow, database structure, and design system. So, i can't find passion became a developer. When i still working on my thesis in 2020, my friend introduced me a role of QA in technology division in one of healttech company as an intern. I got so many experience and skill in a role of QA and that makes me believe there's a chance for me to still being included in a tech world. In the end of 2021, that's my first year as a profesional Software Tester / QA until now. Let me share my experience and my work in this portofolio as a QA for continuing my journey in this role and expand my skill to the futher scope ex: automation area / perfomance tester. 
+Hi, folks! i am Naza, a bachelor from Information System major in one of public uni in Jakarta, Indonesia. From educational background in a tech area i hardly find a path for my carrer because i had to explore and study programming on my own way. In class, my lecture are teach us in majority about business flow, database structure, and design system. So, i can't find passion became a developer. When i still working on my thesis in 2020, my friend introduced me a role of QA in technology division in one of healttech company as an intern. I got so many experience and skill in a role of QA and that makes me believe there's a chance for me to still being included in a tech world. In the end of 2021, that's my first year as a profesional Software Tester / QA until now. Let me share my experience and my work in this portofolio as a QA for continuing my journey in this role and expand my skill to the futher scope ex: automation area / perfomance tester. 
 
 # Experience
 Indopasifik Teknologi Medika Indonesia / ITMI (October 2021 – June 2024)
@@ -12,7 +12,7 @@ QA Engineer
 Recommend system flow if there are certain problems that have not been previously discussed during the initial design presentation. Carry out a Regression Test at the stage before the system Go-Live.
 Indopasifik Teknologi Medika Indonesia are a health tech company (digital pharmacy) have a several products to support a patient to get their medicine as soon as a possible.  I've done completed numerous projects to support operational business in my last company such as WMS, SCM, Finance, Sales Orders, and Pharmaceutical Sales area.
 
-#Projects: 
+# Projects: 
 1. Improvement Admin Panel for Pharmacist and TTK (Oct 2021 – Dec 2021)
 - System to manage prescriptions uploaded by patients which have been obtained by doctors or prescriptions uploaded from doctors directly for recurring patients to get medicine.
 2. Improvement Mobile Apps for Doctor (Oct 2021 – Dec 2021)
@@ -38,6 +38,17 @@ Indopasifik Teknologi Medika Indonesia are a health tech company (digital pharma
 -  e-Katalog to provide customer to access for more information about real stock of product without asking frequently to salesman.
 
 # Skills
+1. Analysis and Critical Thinking
+   -> In my experience, the basic that QA must have are able to deep analysis and thinking out of the box, why? because the first step in a software development project are grooming/brainstroming. When grooming are started, all the participant share their perspective when team product explain goals of the project in each story with the details (user acceptance case), looking for whats missing and undiscussable or end user behaviour if their face/using the system (user experience). Then when sprint has begun, QA Team will analysis UAC that product team design to create scenario and test case. The 2nd reason is capable to fast reproduce bug/issues. After many projects that has been done, i've gained analysis and critical thinking skill because has faced different area of system.
+Sample of test scenario and test case that i've created -> https://drive.google.com/file/d/1A3c0jXeaX8WODPf80k7kCnZpgl3BOqQP/view?usp=sharing
+Type of manual testing and process testing when project has develop are:
+![diagram manual testing drawio](https://github.com/user-attachments/assets/41d40489-f103-4844-87b3-ca7154d9144c)
+![Process Test Manual in Project drawio](https://github.com/user-attachments/assets/08260997-cdfb-4315-9045-05e33634ebfb) 
+
+3. API Testing
+   
+5. Test Documentation
+6. SQL Query
 
 # Tools
 
